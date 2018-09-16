@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 <!--[image1]: ./images/人工智能基础.jpg-->
-[image2]: WhereToStart/images/game.JPG
+[image2]: ./images/game.JPG
 [image3]: ./images/innovators.jpg
 [image4]: ./images/vote.jpg
 [image5]: ./images/比赛01.png
