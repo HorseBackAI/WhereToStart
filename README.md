@@ -1,9 +1,9 @@
 [//]: # (Image References)
 
-[image1]: ./images/人工智能基础.jpg
-[image2]: ./images/game.jpg
-[image3]: ./images/innovators.jpg
-[image4]: ./images/vote.jpg
+[image1]: ./images/人工智能基础.JPG
+[image2]: ./images/game.JPG
+[image3]: ./images/innovators.JPG
+[image4]: ./images/vote.JPG
 [image5]: ./images/比赛01.jpg
 [image6]: ./images/比赛02.jpg
 
@@ -16,7 +16,7 @@
 
 好吧，咱们来讨论`怎么学`人工智能，`为什么学`就不讨论了。
 
-各位亲妈亲爹、同学朋友，目前整理了一些素材、想法，望讨论一下，看看怎么弄，练起。
+各位亲妈亲爹、同学朋友，目前整理了一些素材、想法，可往下看。望可就此讨论一下，看看咱怎么弄，以一种什么样的具体目标和形式：练起？
 
 ### 1. 录播、直播课，教材《人工智能基础》
 ![alt text][image1]
@@ -38,13 +38,20 @@
 
 ![alt text][image6]
 
+今年这比赛赶不上，但是个例子，未来这样比赛绝对不会少。
+
 乐高机器人系列赛事的创办者[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)，这家伙也是MIT航空系、机械系教授、美空军战斗机飞行员，曾说：
-> “创办机器人比赛的初衷，学习知识并不是最重要的，而从这里学习合作、了解队友和他人的边界、处理冲突--才是最重要的。”
+> “创办机器人比赛的初衷，学习知识并不是最重要的，而从这里学习合作、了解队友和他人的边界、处理冲突、解决问题--才是更重要的。”
+
+所以，咱是不是结合生活、学习实际，大人小孩的一起鼓捣鼓捣，万一内啥了呐。
 
 ### 5. 各位亲妈亲爹、同学朋友，给个反馈吧
 ![alt text][image4]
 
+### To do: 讨论定个初期的具体目标和形式
 谢谢 : )
 
-正好北马，所以就给这事取个名：马背上的ai～～😄
+正好北马，所以就给这事取了个名：马背上的ai～～
+
+Thank you for your time.
 
